@@ -1,23 +1,16 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: 22nd, October, 2023.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Commited to 100days challenge.
+Set up my Xubuntu WE.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I am scared of not commiting to this, I also have no time frame in mind, but I have put full stack away for enough time and it is crucial to my programming goals and projects so I will see this through.
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
+**Thread**: https://www.threads.net/@achraf__berra/post/CytIb-UqxgZ
+"Coding diary, day 0:
+Goals: complete my understanding of html to compliment data-analysis webscraping capabilities; be able to create websites from scratch to manifest my ideas and projects.
+Engagement: be object(ive)-oriented and code at least one hour a day, instead of having fun like I have until now with python and R"
 
 ### Day 1: June 27, Monday
 
